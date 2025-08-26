@@ -9,6 +9,9 @@
 <img width="1280" height="800" alt="Screen Shot 2025-08-26 at 11 41 01 PM" src="https://github.com/user-attachments/assets/8d699ba7-d5f5-4028-b4f2-ef15bbdeb32e" />
 # after i saved the file created by pressing esc and :wq
 <img width="1280" height="800" alt="Screen Shot 2025-08-26 at 11 41 01 PM" src="https://github.com/user-attachments/assets/8d699ba7-d5f5-4028-b4f2-ef15bbdeb32e" />
+# use of shebang to tells the shell what interpreter to use to run the script.
+<img width="1280" height="800" alt="Screen Shot 2025-08-27 at 12 45 52 AM" src="https://github.com/user-attachments/assets/49035ef5-b763-4c71-b73e-8ef3e5fbdef4" />
+
 # use of ls -latr to confirm if the file is created 
 <img width="1280" height="800" alt="Screen Shot 2025-08-26 at 11 41 01 PM" src="https://github.com/user-attachments/assets/84d5176a-6fff-4768-85e3-d280c19eaad3" />
 # add the execute permission for the owner to be able to excute shell script using chmod u+x
