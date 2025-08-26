@@ -17,13 +17,27 @@
 <img width="1280" height="800" alt="Screen Shot 2025-08-27 at 12 10 14 AM" src="https://github.com/user-attachments/assets/f3c164b7-5358-4a10-8dff-b45095803960" />
 # use of ls to see the file created
 <img width="1280" height="800" alt="Screen Shot 2025-08-27 at 12 10 14 AM" src="https://github.com/user-attachments/assets/b82176a1-19ca-4969-8bad-9c6c12caf4b6" />
+# use of vm to edit the file my_first_shell_script.sh
+<img width="491" height="367" alt="Screen Shot 2025-08-27 at 12 31 04 AM" src="https://github.com/user-attachments/assets/bc207e46-9134-472a-9ee1-e523640d0deb" />
+# ran ./my_first_shell_script.sh
+<img width="1280" height="800" alt="Screen Shot 2025-08-27 at 12 37 28 AM" src="https://github.com/user-attachments/assets/bfebe008-8b80-4a6b-b75a-e02f51536151" />
+# use of ls to view the created 
+<img width="1280" height="800" alt="Screen Shot 2025-08-27 at 12 36 42 AM" src="https://github.com/user-attachments/assets/ce3066fd-849b-4908-8a0b-955fc400699b" />
+
 # use of id 
-<img width="1280" height="800" alt="Screen Shot 2025-08-27 at 12 04 10 AM" src="https://github.com/user-attachments/assets/e12fc764-90eb-4801-91ca-73dba46d344a" />
-
-
+<img width="1280" height="800" alt="Screen Shot 2025-08-27 at 12 36 42 AM" src="https://github.com/user-attachments/assets/26c4f043-ca54-4015-986a-0db9477040d9" />
 # variable declaration 
 # assign a varable using =""
 <img width="1280" height="800" alt="Screen Shot 2025-08-27 at 12 07 01 AM" src="https://github.com/user-attachments/assets/4fc00e77-39c9-4e6d-a690-2a5c0ec72389" />
+
+# comments
+# connected to my ubuntu server
+<img width="1280" height="800" alt="Screen Shot 2025-08-27 at 12 23 29 AM" src="https://github.com/user-attachments/assets/923f6c74-6333-48c4-a447-19b13cf70b34" />
+# use of comments a single-line comments
+<img width="1280" height="800" alt="Screen Shot 2025-08-27 at 12 23 32 AM" src="https://github.com/user-attachments/assets/4c0e2efa-246c-475a-903d-1c4c0cef239a" />
+# use of muiltple single-line comments
+<img width="1280" height="800" alt="Screen Shot 2025-08-27 at 12 23 32 AM" src="https://github.com/user-attachments/assets/36610797-d38f-4296-9766-e3d63209ba25" />
+
 
 
 
